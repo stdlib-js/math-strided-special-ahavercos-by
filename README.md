@@ -262,6 +262,12 @@ console.log( y );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-strided/special/ahaversin-by`][@stdlib/math/strided/special/ahaversin-by]</span><span class="delimiter">: </span><span class="description">compute the inverse half-value versed sine of each element retrieved from an input strided array via a callback function.</span>
+
 </section>
 
 <!-- /.related -->
@@ -343,6 +349,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@stdlib/math/base/special/ahavercos]: https://github.com/stdlib-js/math-base-special-ahavercos
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/ahaversin-by]: https://github.com/stdlib-js/math-strided-special-ahaversin-by
+
+<!-- </related-links> -->
 
 </section>
 
